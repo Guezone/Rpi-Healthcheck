@@ -19,9 +19,9 @@ During installation (setup.py), the script writes a configuration file (config.t
 
 
 **Example of mail sent by Rpi-Healthcheck:**
-<p align="center"><a href="url"><img src="https://github.com/Guezone/Rpi-Healthcheck/blob/master/img/mail-1.jpg" height="" width="263" ></a><br><br></p>
-<p align="center"><a href="url"><img src="https://github.com/Guezone/Rpi-Healthcheck/blob/master/img/mail-2.jpg" height="" width="263" ></a><br><br></p>
-<p align="center"><a href="url"><img src="https://github.com/Guezone/Rpi-Healthcheck/blob/master/img/mail-3.jpg" height="" width="263" ></a><br><br></p>
+<p align="center"><a href="url"><img src="img/mail-1.jpg" height="" width="263" ></a><br><br></p>
+<p align="center"><a href="url"><img src="img/mail-2.jpg" height="" width="263" ></a><br><br></p>
+<p align="center"><a href="url"><img src="img/mail-3.jpg" height="" width="263" ></a><br><br></p>
 
 
 ## Requirements 
